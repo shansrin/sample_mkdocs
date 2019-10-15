@@ -1,0 +1,9 @@
+site_name: My Asciidoctor
+nav:
+    - Home: index.md
+    - Chapter 1 Overview: chapter1.md
+    - Chapter 2 Installation: chapter2.md
+    - Chapter 3 Configuration: chapter3.md
+
+theme: readthedocs
+
